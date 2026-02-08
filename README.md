@@ -7,7 +7,7 @@ Este proyecto no tiene ánimo de lucro y fue creado como tutorial para enseñar 
 El juego está inspirado en 'How not to summon a demon lord' (aka 'Isekai Maou') de Yukiya Murasaki, y en el estilo de juego de Dragon Quest, adaptando elementos de narrativa, exploración de mundos y combates por turnos a un entorno retro de MS-DOS.
 
 ## Descripción
-The False Overlord es un JRPG desarrollado para MS-DOS, que incluye un sistema de batalla por turnos, exploración de mapas, interacciones con NPCs, sistema de quests, inventario, y guardado/carga de partida. El juego captura la esencia de los JRPGs clásicos en un formato retro.
+The False Overlord es un JRPG desarrollado para MS-DOS, que incluye un sistema de batalla por turnos, exploración de mapas, interacciones con NPCs, sistema de quests, inventario, y guardado/carga de partida. El juego captura la esencia de los JRPGs clásicos en un formato retro. La primera release por ahora sólo es una prueba de concepto (tenemos un mapamundi, dos ciudades, varios NPC, una QUEST y podemos combatir contra slimes), pero la idea es que el juego acabe embarcando la primera temporada completa de Isekai Maou.
 
 ## Créditos
 Este juego ha sido programado por Sebastián J. Moncho Maquet, aka Le hamster_ruso ([@hamster_ruso en X](https://x.com/hamster_ruso)), en enero de 2026.
